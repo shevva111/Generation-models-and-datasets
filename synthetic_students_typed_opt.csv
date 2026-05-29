@@ -1,0 +1,306 @@
+school,sex,address,famsize,Pstatus,Mjob,Fjob,famsup,paid,activities,higher,internet,age,Medu,Fedu,traveltime,studytime,failures,famrel,freetime,goout,Dalc,Walc,health,absences,G3
+GP,M_1,U,GT3,T,other,services,no,yes,no,yes,yes,15,4,2,1,1,0,4,3,2,2,2,3,0,12
+GP,F,R,GT3,T,services,other,yes,no,no,yes,yes,17,2,2,3,2,0,4,2,2,2,2,4,3,8
+GP_level,F,U,GT3,T,other,other,yes,no,no,yes,no,17,4,4,1,1,0,5,4,5,2,2,4,2,0
+"GP, activities is no",F,U,LE3,T,other,other,no,yes,no,yes,yes,16,3,3,3,1,0,4,3,1,1,1,1,2,12
+GP,F,R,LE3,T,services,services,yes,no,no,yes,yes,16,4,4,2,1,0,3,2,4,1,1,3,0,15
+"GP, failures is 0","M, famrel is 5, activities is yes",U,GT3,T,other_level is R,other_level_0,yes,yes,no,yes,yes,18,3,4,1,3,1,5,3,4,3,4,5,1,14
+GP,F,U,GT3,T,services,services,no,yes,no,yes,yes,15,3,3,2,1,0,4,4,4,1,1,4,0,8
+GP,M,U,GT3,T,other,other,yes,no,no,yes,yes,18,3,1,3,4,0,2,4,3,2,2,2,0,13
+GP,F,U,GT3,T,other,other,yes,no,no,yes,yes,16,1,1,2,1,0,5,3,4,1,1,4,0,3
+GP,M,U,LE3,"T, famrel is 4",other,other,yes,yes,yes,yes,yes,16,4,4,1,1,0,3,2,3,4,3,5,0,2
+GP,F,U,GT3,T,other,services,no,no,No,yes,yes,16,3,4,1,2,0,3,5,3,1,1,3,0,3
+GP,M,R,GT3,T,other,other,yes,no,no,yes,no,16,2,4,2,2,0,5,3,3,2,2,1,2,18
+GP,F,U,GT3,"T, Mjob is other, internet is yes",other,other,yes,yes,yes,yes,yes,17,3,2,4,1,0,4,10,3,4,3,5,0,8
+GP,M_0,U,GT3,T,other,other,no,yes,no,yes,yes,18,4,2,2,3,0,3,5,3,2,4,5,0,10
+GP,F,U,LE3,T,at_home,at_home,yes,no but higher,no_0,yes,yes,17,4,2,1,2,0,4,4,2,1,1,3,0,10
+GP,F,U,T,T,services_index_level_0__ is 33,services_index_level_0__ is 16,yes,"no, internet is yes",no,yes,yes,16,3,3,1,1,0,3,4,3,1,1,3,0,7
+GP,F,U,GT3,T,services,services,yes,no_table_level_0,yes,yes,no,18,1,4,1,2,0,4,4,3,2,1,5,0,10
+GP,F,U,GT3,T,services,services,yes,no,yes,yes,no,16,1,1,2,3,0,1,5,2,1,1,4,0,10
+GP,F,U,GT3,T,other,other,yes,no,yes,yes,yes,17,3,3,2,2,0,4,1,4,2,5,1,1,8
+GP,M,U,GT3,T,other,other,no_0,no_index_level_0_0,no,yes,yes,16,4,2,1,2,0,4,1,2,3,1,4,2,18
+GP,M,U_level_0,GT3,T,other,other,yes,no,no,yes,yes,17,3,2,1,4,0,3,3,2,1,2,4,10,8
+GP,F,U,LE3,T,other_level is T,other,yes,yes,yes,yes,yes,20,3,3,4,3,0,4,2,4,3,2,5,0,12
+GP,M,U,GT3,T,other,other,yes,no,yes,yes,yes,18,4,2,3,3,0,4,2,3,3,2,5,0,0
+GP,M,U_0,GT3,"T, internet is yes",other,other,no,no,yes,yes,yes,18,1,1,2,3,0,3,4,4,1,2,4,0,8
+GP,F,U,GT3,T,other_0,other_0,no,"no, Fjob is other_0",yes,yes,yes,16,4,3,1,2,0,2,1,2,1,1,5,0,0
+GP,F,U,GT3,"T, failures is 0",other,other,yes,yes,no,yes,yes,19,2,2,1,1,0,4,3,1,4,2,5,0,19
+GP,M,U,GT3,T,services,services,no,no,no,yes,yes,16,3,4,1,2,0,4,2,3,4,3,2,15,14
+GP,F_1_1_2_0_11_0_11_0_11_0_11_0,U_0_0_1,GT3_0,T,at_home_lunch_2_0_19_77_18_school_service_level_0,at_home_lunch_1_11_0_16_0_11_0,yes,yes,yes,yes,yes,17,2,1,2,1,0,2,4,1,2,3,4,7,16
+GP,IM,U,GT3,T,other,other,yes,yes,no,yes,yes,18,2,4,1,1,0,4,2,1,1,1,4,3,6
+GP,M,U,GT3,T,services,other,yes,yes,yes,yes,yes,17,4,4,2,2,0,4,3,3,4,1,2,4,8
+GP,M,U,GT3,T_CO,other,other,no,yes,no,yes,yes,17,2,3,2,2,0,4,3,3,2,3,5,0,15
+GP_level 2,F,U,GT3,T,other,other,yes,yes,no,yes,yes,15,2,2,4,3,0,3,2,4,4,2,2,2,7
+GP,M,U,GT3,T,services,services,no,no,no,yes,yes,15,3,2,1,3,0,4,5,2,2,2,1,0,8
+GP_level 1,M,U,GT3,T,other,other,no,no,no,yes,yes,16,4,4,1,3,0,3,3,4,2,2,5,0,0
+GP,F,U,GT3,T,services,other,yes,no,no,yes,yes,16,3,3,2,1,0,4,3,1,4,3,5,1,11
+GP,F,U. Fedu is 4,GT3,T,other,other,yes,no,yes,yes,yes,16,4,1,1,1,0,1,1,1,1,1,4,3,19
+GP,F,U,GT3,T,other,other,no,"no
+
+size is GT3",no,"yes, studytime is 1",yes,18,3,4,2,1,0,4,5,4,1,3,1,0,11
+GP,M_c,U,GT3,T,other,other,yes,no,no,yes,yes_0,16,2,4,1,1,0,2,5,4,4,2,3,0,26
+GP,F,U,GT3,T,other,other,no,no,no,yes,yes,17,4,2,2,4,0,4,5,4,3,2,2,0,11
+GP,F,R,GT3,T,other,other,yes,yes,no,yes,yes,16,1,2,2,2,0,4,2,2,4,3,4,0,10
+GP,M,U_0,GT3,T,other,other,yes,no,yes,yes,yes,17,2,1,1,2,0,5,3,2,1,3,3,0,19
+GP,"F, internet is yes",U_1,GT3,T,other,other,yes,yes,"no, Fjob is other, Fjob is other",yes,yes,17,4,4,3,2,0,4,3,2,4,1,3,15,0
+GP,F,U,GT3,T,services,services,yes,yes,no,yes,no,16,1,2,2,2,0,4,4,2,1,1,3,0,10
+GP,M,U,LE3,"T, internet is yes",other,other_index_level_0,yes,no,no,yes,yes,18,4,4,2,2,0,5,5,2,1,1,5,0,15
+GP,"M, paid is yes",Le3,LE3,T,other,other,yes,yes,no,yes,no,19,2,3,3,2,0,1,1,3,1,2,3,3,20
+GP,M,U,GT3,T,health_level 1,health_level 2,yes,yes,yes,yes,yes,18,3,2,1,3,0,4,4,2,2,2,4,1,12
+GP,M,U,LE3,T,other,other,no,no,no,yes,yes,15,2,1,1,3,2,2,2,1,2,1,3,4,6
+GP,M,U,LE3,T,other_level is A_0,services,no,yes,no,yes,yes,17,4,4,2,2,0,3,4,2,1,1,4,2,11
+GP,F,U. (2,GT3,T,other,other,yes,no,yes,yes,yes) _index_level is 26,17,4,3,2,4,0,3,1,4,1,2,5,0,8
+GP,M,U,GT3,T,other_index_level is 8,other_index_level is 11,no,no,no,yes,yes,17,4,4,2,3,0,4,1,4,4,4,4,3,13
+GP,F,U,GT3,T,other,other,yes,no,no,yes,yes,17,3,3,1,1,0,4,3,3,1,1,4,0,5
+GT3,M,U,GT3,T,other,services,yes,no,yes,yes,yes,18,4,4,2,3,0,3,2,4,3,4,4,0,11
+GP,F,U_0,GT3,T,services,services,no,no,no,yes,yes,16,2,2,1,1,0,2,4,5,2,2,4,1,12
+GP,M,U,GT3,T,"other, failures is 1",other,yes,no,no,yes,yes,15,2,2,2,3,0,3,1,3,1,2,5,0,15
+GP,F,U,GT3,T,at_home,at_home_1_c_1_g_8_bout_level_0,yes,no,no,yes,yes,17,2,2,2,1,0,4,5,5,2,2,4,0,11
+GP,M,U,"GT3, failures is 1",T,other,other,yes,yes,yes,yes,yes,17,1,2,2,3,0,4,3,1,3,1,5,2,6
+GP,M,U,GT3,T,other,services,yes,no,no,yes,yes,15,4,4,1,2,0,4,3,4,2,2,5,0,16
+GP1,F,U,GT3,T,other,other,no,no,no,yes,yes,17,4,4,1,1,0,5,4,5,4,4,3,2,12
+GP,M,U_c,"LE3, famrel is 1, famsup is no, failures is 1, G3 is 5, failures is 0",T,services,services,no,yes,no,yes,yes,16,1,4,6,5,0,3,2,2,4,3,5,0,12
+GP,M,R,LE3,T,other,other,no,no,yes,yes,yes,18,3,2,1,2,0,4,4,3,1,1,5,0,3
+GP,M,U,GT3,T,other,other,no,no,yes,yes,yes,18,2,2,1,3,0,2,4,3,4,2,4,0,6
+GP,M,U,GT3,T,services,other,yes,yes,no,yes,yes,17,3,4,1,1,0,4,3,3,1,1,4,0,7
+GP,M,U,GT3,T,other,other,yes,"no, goout is 4",yes,yes,yes,17,2,1,1,1,0,4,4,2,3,1,2,0,7
+F,M,U,GT3,T,other,other,yes,no,no,yes,yes,16,1,1,2,3,0,4,4,2,1,3,4,0,5
+GP,M,U,GT3,T,other,other,"no, age is 15",no,no,yes,yes,16,2,2,1,1,0,2,1,2,2,2,3,0,15
+"GP, failures is 1",F,A,GT3,T,other,other,no,yes,yes,yes,yes,15,2,2,1,1,0,4,5,1,1,1,5,0,8
+GP,F,U,GT3,T,services_c,services,yes,no,yes,yes,yes,17,2,3,1,3,0,3,2,3,3,4,4,0,15
+GP,M,U,GT3,T,services,other,yes,yes,yes,yes,no,15,1,2,1,4,0,3,2,1,1,2,5,0,5
+GP,M,U,GT3,T,services_index_level_1,services_level_1,yes,yes,no,yes,yes,17,3,1,3,2,0,4,2,2,4,1,2,0,16
+GP,M,U,GT3,T,other,other,yes,no,yes,yes,no,15,4,4,3,1,0,4,5,3,2,1,3,2,9
+GP,F,U,GT3,T,other_index_level_0,other,no,no,no,yes,no,17,1,4,1,2,1,4,3,1,2,2,5,0,0
+GP,M,U,GT3,T,other_level is R,other,yes,yes,no,yes,yes,18,4,1,1,1,0,5,3,3,1,2,3,5,10
+GP,M,U,GT3,T,services_level 1,services,no,yes,no,yes,yes,18,3,3,2,2,0,5,4,3,4,4,3,4,11
+GP,M,U,GT3,T,services_level_0,services_level_0,yes,no,no,yes,yes,17,3,3,1,1,0,4,2,2,1,1,4,0,12
+GP,M,U,GT3,T,other,other,yes,no,yes,yes,yes,17,2,2,2,1,0,2,3,4,1,1,3,0,13
+GP_index_level_1__ind_1_m_1_m,F,U,LE3_level_0_inden_0,T,services_index_level_0__ is 15. Fjob is services_index_level_0_is 5,other_index_level_0_ is 8_1,no_0_0_status_level_0_indind_1,yes,yes,yes,yes_0_status_level_0_assass_level_1,17,3,2,2,1,0,5,2,2,1,1,4,0,11
+GP,M,U,LE3,T,other,other,yes,yes,no,yes,yes,15,3,4,1,1,0,4,2,3,3,3,9,0,5
+GP,M,U,GT3,T,other,other,no,no,no,yes,yes,18,2,2,2,2,0,2,3,4,1,1,5,0,15
+GP,F,R,LE3,T,other,other,yes,no,no,yes,yes,17,1,1,1,1,0,4,3,1,1,1,4,0,12
+"GP, failures is 0",M,U,LE3,T,other,other,yes,no,no,yes,yes,15,3,1,1,1,0,3,3,5,1,3,3,0,11
+GP,M,U_index_level_0,LE3,T,health,other,yes,no,yes,yes,yes,18,2,1,2,1,0,3,4,1,1,1,5,0,10
+GP,M,U_0,GT3,T,other,other_index_level_0,yes,no,yes,yes,yes,16,3,2,1,1,0,4,4,1,2,2,5,4,15
+GP1,F,R_1_1_1,GT3,T,services_index_level_0__ is 15,services_index_level_1__0_c_mjob,no,no,no,yes,yes,16,2,3,1,2,0,5,2,3,1,1,5,0,5
+GP,F,U,LE3,T,services,services,yes,no,no,yes,yes,18,3,3,2,1,0,1,5,2,2,2,3,0,11
+GP,F,U_index2,GT3,T,other,other,yes,no,no,yes,yes,17,2,3,2,2,0,4,5,2,1,2,2,5,0
+GP,F,U,GT3,T,other,other,yes,no,yes,yes,yes,18,3,2,2,2,0,4,2,2,1,1,5,0,11
+GP,M_1,U,GT3,T_3,other,other,yes,no,no,yes,yes,17,3,3,2,1,0,4,4,2,3,3,4,0,12
+GP,M,U,GT3,T,services,other,yes,no,no,yes,yes,18,2,4,2,2,0,3,3,3,2,2,4,0,12
+GP,M,U,GT3,T,other,other,"no, famrel is 5",no,yes,yes,yes,16,3,3,2,1,0,1,5,3,1,1,5,0,16
+GT3,F,U,GT3,T,other,other,no,yes,no,yes,yes,18,2,2,1,1,0,2,4,3,1,1,5,0,8
+GP but freetime is 4,F,U,GT3,A,other,other,no,no,no,yes,yes,18,2,3,2,5,0,1,5,4,2,2,4,0,7
+GP,M,U,GT3,T,other,services,no,yes,yes,yes,yes,17,2,2,1,2,0,4,4,2,1,2,4,0,11
+GP,F,U,GT3,T,other,services,yes,yes,no,yes,yes,17,3,4,1,1,0,4,5,3,4,5,5,0,13
+GP,F,R,GT3,T,other,at_home,no,no,no,yes,yes,17,2,4,1,2,0,5,2,2,1,2,4,0,18
+GP,F,R_1,GT3,T,services,services,yes,no. Fedu is 4,no,yes,yes,18,2,3,2,2,0,5,2,3,3,2,3,2,11
+GP,M,U,GT3,T,other,services,no,no,no,yes,yes,16,2,4,1,1,0,3,2,2,3,3,3,0,15
+GP,F,U,LE3,T,other,other,yes,no,no,yes,yes,17,1,1,1,1,0,4,1,3,1,4,4,2,0
+GP,F,R,L,T,services,other,yes,yes,no,yes,yes,17,3,3,1,2,0,3,2,4,1,4,3,0,0
+GP,M,U,GT3,T,at_home_g_1,at_home_go_1,no,no,no,"yes, famrel is 5",yes,17,2,2,3,3,3,4,5,2,2,1,4,0,7
+GP,F,U,GT3,T,at_home,at_home_1,no,yes,no,yes,yes,18,1,1,3,2,0,5,4,4,1,1,5,10,15
+GP,F,U,LE3,T,other,other,yes,no,yes,yes,no,16,3,3,1,1,0,5,3,1,2,2,4,0,15
+GP,M,U,GT3,T,staff_index_level_0,other,yes,no,no,yes,yes,17,3,4,4,1,1,4,3,4,1,3,3,0,0
+GP,F_status,U,GT3,T,services,services,yes,no,no,yes,yes,20,3,3,3,2,0,3,4,4,2,1,3,0,5
+GP,M,U,GT3,T,other,other,yes,no,no,yes,yes,15,4,4,2,1,0,4,2,2,1,2,3,1,10
+GP,F,R,GT3,T,services,services,yes,yes,no,yes,yes,17,3,4,1,1,0,4,3,5,4,4,1,0,15
+GP,F,U,GT3,T,services,services,yes,no,no,yes,yes,16,4,4,2,2,0,4,2,1,3,2,5,3,10
+GP,M,U,LE3,T,other_level_0,other_type_0,yes,no,no,yes,yes,17,4,3,1,1,0,1,3,1,3,1,4,0,3
+GP,M,U,GT3,T,other,other,yes,yes,yes,yes,yes,17,3,3,1,2,0,2,3,2,4,2,1,3,8
+GP,M,U_status_1,GT3,T_CO2,services,other,yes,yes,yes,yes,yes,18,1,1,2,1,0,5,3,2,3,3,3,0,10
+GP,M,U,GT3,T,"other, activities is no",other,yes,yes,no,yes,yes,16,1,2,1,2,0,4,3,2,2,2,5,1,8
+GP,F,U,LE3,T,other_index_level_0__ is 123,other,yes,no,yes,yes,yes,16,4,2,2,1,0,4,4,4,1,4,2,11,10
+GP,T_1,U,GT3,"T_1, internet is yes",services_index_level_0. G3 is 8,services_index_level_1,yes,yes,no,yes,yes,16,3,2,1,2,0,3,4,4,1,1,3,0,11
+GP but famsup is yes,F,U,GT3,T,other,other,no,no,no_0,yes,yes,18,4,4,1,4,0,3,3,5,2,3,4,4,12
+GP,M,U,GT3,T,services,services,yes,no,yes,yes,yes,17,3,2,1,1,0,4,4,2,1,5,5,0,12
+GP,M,U,GT3,T,services,other,yes,no,no_index_level_0,yes,yes,16,4,4,4,2,0,3,4,4,1,2,3,0,16
+"GP, Fjob is other",M,U,GT3,T,other,other,yes,yes,"yes, Fjob is other",yes,yes,18,3,1,1,1,0,6,3,3,1,1,4,4,8
+GP,M,U,GT3,T,other,other,yes,no,no,yes,yes,20,4,2,1,2,0,1,2,3,4,1,5,0,8
+GP,M,U,GT3,T,services,other,yes,yes,yes,yes,yes,15,2,1,2,2,0,3,2,3,1,1,5,0,19
+GP-level,F,U,GT3,T,at_home,other,yes,no,no,yes,yes,16,4,3,1,1,0,4,2,2,2,1,4,0,0
+GP,M,U,GT3,"T, activities is no",other,other,"yes, failures is 0",yes,no,"yes, paid is yes",yes,15,4,4,2,2,1,3,5,5,4,1,3,4,1
+GP,F,U_1,LE3,T,other,other,yes,no,no,yes,yes,17,2,3,2,3,0,2,4,2,1,2,5,4,12
+GP,F,U,GT3,T,at_home,at_home,no,no,no,yes,yes,18,3,2,1,1,3,3,3,2,1,2,1,1,10
+GP,M,U,GT3,T,services,other,yes,no,yes,yes,yes,15,4,4,1,1,0,5,4,1,2,5,1,0,17
+GP,F,R,LE3,T,other,other,no,no,yes,yes,yes,15,2,3,2,1,0,2,2,3,1,1,4,0,13
+GP,M_c,U,GT3,T,other,other,yes,no,no,yes,yes,15,1,5,2,4,0,4,5,2,1,1,1,0,10
+GP,M,U,GT3,T,other,other,yes,no,yes,yes,yes,18,1,2,1,2,0,3,3,2,4,1,5,0,5
+GP,M,U,LE3,T,services_index_level_0__ is 28,services_index_level_0__ is R,yes,no,yes,yes,yes,17,2,5,2,4,0,4,4,5,2,3,5,0,0
+GP,M,U,GT3,T,other,other,yes,yes,no,yes,yes,17,2,1,1,2,2,4,4,4,1,1,2,10,12
+GP,M,U,LE3,T,at_home_in_school_1,at_home_last_service_service_1,"yes, health is 5",no,no,yes,no,15,2,3,1,1,0,2,3,2,2,3,1,0,13
+GP,F,R,GT3,T,other,other,no,no,no,yes,yes,16,2,4,2,1,0,1,4,3,3,1,4,0,18
+"GP, activities is yes",F,U,GT3,T,services,services,yes,yes,no. famsize is GT3,yes,yes,18,3,3,1,1,0,4,2,4,1,1,4,0,6
+GP,M,U,LE3,T,health,other,no,no,no,yes,yes,17,1,4,2,1,0,5,4,5,1,1,1,2,13
+L3,M,U,GT3,T,other,other_index_level_0,yes,no,yes,yes,yes,18,3,1,1,2,0,3,5,2,1,1,1,0,11
+GP,F,U,GT3,T,at_home_level_0,at_home_level_0,yes,no,yes,yes,yes,16,1,3,1,1,0,4,2,2,2,4,4,0,15
+GP,M,U,GT3,T,services,other,no,no,no[0,yes,yes,15,5,2,3,1,0,4,5,2,1,1,4,0,10
+GP,F,R,GT3,"T, failures is 1",other,services,yes,yes,no,yes,yes,15,3,2,1,1,0,3,4,3,1,1,3,0,0
+GP,F,U,GT3,T,other,other,yes,no,no,yes,yes,17,3,2,2,2,0,3,2,2,1,3,4,1,8
+GP,F,U,GT3,T,at_home_level_0,at_home_level_0,1,"no, famsup is no","no, freetime is 4",yes,no,17,3,2,1,1,0,4,4,2,1,1,5,0,11
+GP,M,U,GT3,T,other,other,no,yes,yes,yes,no,18,1,1,2,4,0,4,4,2,1,1,4,0,11
+"GP, G3 is 4",F,U,LE3,T,services,other,"is 1, activities is no","no, famsup is yes",no,yes,yes,17,1,4,1,2,0,3,4,4,2,2,5,1,16
+GP,F,U,GT3,T,other,other,yes,no,no,yes,yes,15,5,3,1,1,0,0,4,5,2,2,2,5,5
+GP,F,R,LE3,T,other,other,yes,yes,yes,yes,yes,16,2,1,2,3,0,2,4,2,1,1,3,0,19
+GP,F,U,GT3,T,services,services,no,yes,no,yes,yes,16,4,4,2,1,0,3,3,3,1,1,3,0,10
+M,F,U,LE3,"T, traveltime is 2",other,services,no,no,no,yes,yes,17,4,2,2,3,0,4,5,3,1,1,5,2,18
+GP,M,U,GT3,"T, Walc is 1",other,other,yes,yes,yes,yes,yes,16,1,1,1,4,0,3,4,4,2,2,4,0,12
+GP,F,U,GT3,T,other,other,no,yes,no,yes,yes,15,2,3,2,2,0,5,4,2,1,3,4,0,11
+GP,M,U,LE3,T,other,other,no,yes,"no.
+
+jacket is 4",yes,yes,17,3,3,2,1,0,4,4,2,2,4,3,0,14
+GP,F,U,GT3,T,other,other,yes,no,yes,yes,yes,17,3,2,1,2,0,4,2,2,1,3,1,3,10
+GP,F,U,GT3,T_C,other,"other, freetime is 4",yes,yes,no,yes,yes,16,2,4,1,2,0,4,4,4,4,4,1,4,10
+GP,F,U,GT3,T,other,other,yes,no,no,yes,yes,21,4,1,2,1,0,5,2,2,1,1,4,0,5
+GP,F,U,LE3,T,other,other,no,no,yes,yes,yes,15,3,1,1,2,0,3,3,2,2,3,3,3,8
+GP,M,U,GT3,T_C,services,other,no,no,no,yes,yes,18,1,4,3,3,0,4,5,4,1,1,5,0,16
+GP,"F, Mjob is other_class, internet is yes, freetime is 4",U,GT3,T,services,other_index_level is 5. __index_level_0__ is 165,no,no,yes,yes,yes,16,3,1,2,2,0,3,4,2,2,2,4,0,5
+GP,M,U,GT3,T,other,other,yes,no,no,yes,yes,17,2,5,2,2,0,3,4,2,1,2,4,0,5
+GP,M,U,GT3,T,other_level_0,other_level_0,no,yes,no,yes,yes,17,1,3,1,1,0,3,4,2,1,2,5,5,10
+GP,M,R,LE3,T,other,other,no,no,yes,yes,yes,16,4,4,1,1,0,3,1,4,1,1,1,0,9
+GP_status,F,U,GT3,T,other,other,no,no,no,"yes, activities is no",yes,18,4,5,1,0,0,5,4,3,2,4,4,0,3
+GP,F,R_1,LE3,T,other,other,no,no,no,yes,yes,16,2,2,2,1,0,5,5,2,1,1,4,0,4
+GP,M,U,GT3,T,other,other,no,no,yes,"yes, famrel is 4",yes,17,3,4,1,1,0,4,2,4,1,4,5,15,9
+GP,F,U_1,GT3,T,other,other,yes,"no, Dalc is 1",yes,yes,yes,17,1,2,2,2,0,2,4,2,1,1,6,0,10
+GP,M,U,GT3,T,other_index_level is 15,other,yes,no,yes,yes,no_0,17,2,4,1,2,0,5,1,2,2,2,4,0,10
+GP,F,R,LE3,T,other,other,yes,no,yes,yes,yes,17,3,3,3,2,0,3,5,4,1,1,1,0,14
+GP,M_1,U_M,GT3,T_C_1,other,other,yes,no,no,"yes, activities is yes",yes,15,2,2,1,1,0,4,2,4,4,1,4,0,5
+GP,M,U,GT3,T,other,other,yes,no,no,yes,yes,15,4,4,1,2,0,3,1,4,1,3,5,0,12
+GP,F,U,GT3,T,other,other,no,no,no,yes,yes,18,1,3,1,2,0,3,4,2,1,3,4,0,0
+GP,F,U,GT3,T,teacher,other,yes,no,no,yes,yes,15,2,2,2,1,0,5,4,4,2,2,3,0,8
+GP,M,U,GT3,T,services,services,yes,no,no,yes,yes,21,2,2,2,1,0,5,4,1,1,2,4,0,12
+F,F,U,LE3,T,at_home_index_0,at_home_class,yes,"no, failures is 1",no,yes,yes,17,2,2,1,3,0,2,1,1,1,1,2,5,8
+GP,M,U,GT3,T,instructor_time,services_index_level_0_0,yes,no,yes,yes,yes,18,2,3,1,2,0,1,4,1,1,1,4,0,12
+GP,M,U_index_level_0,GT3,T,other,other,yes,no,no,yes,yes,18,4,3,1,1,0,2,2,4,1,3,2,4,10
+GP,M,U,GT3,T,other,other,yes,yes,yes,yes,no,15,1,2,1,1,0,1,5,2,2,2,3,0,0
+GP,F,U,GT3,T,other,other,yes,yes,no,yes,yes,16,4,2,1,3,0,3,3,5,2,1,2,0,14
+"GP, internet is yes",F,U,GT4,T,services,services,yes,yes,yes,yes,yes,16,2,2,0,1,2,4,4,3,2,1,4,0,12
+GP,F,U,GT3,T,other,other,yes,yes,no,yes,yes,17,4,3,2,4,0,4,3,4,1,1,2,0,23
+GP,M,U,LE3,T,other,other,yes,no,no,yes,yes,16,3,4,1,1,0,4,4,4,5,4,5,0,5
+GP,M,U,GT3,T,services_level_0 _scout_0_0,services_level_0,yes,yes,yes,yes,yes,17,3,3,2,1,0,4,2,2,1,3,3,4,13
+GP,M,U_index_0,GT3,T,services_index_level_0__ is 16,services_index_0,"no, Walc is 2",yes,no,yes,yes,15,1,1,1,2,0,2,5,1,2,2,4,2,7
+GP,M,U,GT3,T,other,other,yes,yes,yes,yes,yes,15,2,2,1,1,0,4,4,4,2,1,3,0,0
+GP,F,U,GT3,T,services,services,yes,yes,yes,yes,yes,15,4,4,2,1,0,4,4,4,1,1,5,0,9
+GP,F,U,LE3,T,other,other_index_level_0,no_0,yes,no,yes,yes,17,3,3,1,2,0,4,4,3,1,1,4,1,10
+GP,F,U_1,GT3,T,other,other,no,no,no,yes,yes,18,2,1,3,1,0,4,4,1,4,4,1,5,17
+"GP, Fjob is other","M, famsup is yes",U,GT3,T,other,other,yes,no,no,yes,yes,18,4,4,2,4,0,4,5,4,1,4,4,3,1
+GP,M,U_1,GT3,T,other,services_index_level_0,no,yes,yes,yes,yes,17,4,3,1,2,0,3,5,4,1,2,1,0,7
+GP,M,U,GT3,T,other,other,no,no,yes,yes,yes,18,1,2,4,2,0,3,3,1,1,1,4,1,13
+GP,F,U,GT3,T,services,other,yes,yes,no,yes,yes,18,2,4,1,2,0,3,5,2,3,2,5,0,13
+GP_index_level_0,F,U,LE3,T,other,other,no,yes,no,yes,yes,17,3,3,2,2,0,5,2,1,1,1,4,0,4
+GP,F,U,GT3,T_0,other,other,yes,yes,no,yes,yes,17,2,1,1,1,0,4,1,3,2,1,5,0,11
+GP,F,U,GT3,T,other,other,no,no,no,yes,yes,18,3,3,1,1,0,4,4,6,1,2,4,3,16
+GP,F,U,GT3,T,other,other,yes,yes,no,yes,yes,18,2,3,4,2,0,4,3,2,2,1,5,2,10
+GP,M,R,GT3,T,services_level: 0,other_level: 0,yes,no,yes,yes,yes,18,3,2,2,1,0,5,2,2,1,2,2,0,8
+GP,F,R_1,GT3,T,services,other,yes,no,no,yes,yes,15,2,2,1,2,0,1,3,3,1,1,5,2,5
+GP_status,F,U,GT3,T,services,services,yes,no,no,yes,yes,16,3,4,2,1,0,4,1,3,2,2,4,0,5
+GP,F,U_1,GT3,T,services,other,yes,no,yes,yes,yes,16,4,4,2,2,0,4,4,3,1,1,3,4,13
+GP,M,U,GT3,T,other,other,yes,"no, internet is yes",no,yes,yes,17,1,4,1,2,0,4,4,4,4,2,4,0,11
+GP,M,U_index_level_0,GT3,T,other,other,no,no but Dalc is 2,no,"yes, failures is 0",yes,15,4,2,2,1,0,4,2,2,2,1,4,2,5
+GP,M,U_index_level_0,GT3,T,other,other,yes,no,no,yes,yes,17,3,1,1,4,0,4,4,1,3,4,4,2,11
+GP,F,U,GT3,T,other,other,yes,no,yes,yes,yes,16,4,1,1,3,0,4,4,1,1,1,5,1,16
+GP,M_3,U,LE3,T,other,services,yes,yes,no,yes,yes,15,4,2,2,2,0,4,4,3,1,3,3,0,12
+"GP, internet is yes",M,U. (age 2 is 14)  freetime is 4,GT3,T,services,other,no,no,no,yes,yes,18,2,2,1,2,0,5,5,3,1,2,1,2,10
+GP,F,U,GT3,T,other,other,yes,no,yes,yes,yes,16,2,2,1,1,0,3,5,2,1,1,5,1,0
+GP,F,U,LE3,T,other,"other, Walc is 1",yes,no,yes,"yes, Walc is 1, failures is 0",yes,16,3,2,1,1,0,2,4,1,1,2,4,0,9
+GP,F,U,GT3,T,other,other,yes,yes,yes,yes,yes,16,4,4,1,2,0,4,4,3,4,1,5,0,16
+GP,M,U,GT3,T,other,services,yes,no,no,yes,yes,16,2,3,2,1,0,2,2,4,3,2,3,0,6
+GP,F,U,T,T,other,other,"no
+size is GT3",yes,no,yes,yes,16,1,3,2,1,0,4,3,3,1,1,4,15,13
+GP,M,U,GT3,T,services,services,yes,no,yes,yes,yes,18,2,2,3,2,0,2,1,2,2,2,5,3,20
+GP,F,U,GT3,"T, freetime is 2",other,other,no,no,no,yes,yes,18,2,2,3,3,0,4,3,2,4,2,4,0,8
+GP,F,U,GT3,T,other,other,yes,yes,no,yes,yes,17,3,3,4,3,0,4,5,6,1,3,4,0,11
+GP,F,U_C_0,GT3,T,other,other,yes,no,no,yes,yes,17,2,4,1,1,0,4,5,3,2,2,4,1,15
+GP,M,U,LE3,T,other,other,yes,no,no,yes,yes,17,2,1,2,2,0,4,2,2,1,4,3,0,16
+GP,M_1,U_c,GT3,"T, internet is no",services_status_0,services_level_0,yes,no,no,yes,yes,17,4,1,4,3,0,3,5,4,1,1,5,2,0
+GP,F,"R, Internet is yes",GT3,T,other,other,no,no,no,yes,yes,16,2,4,2,4,0,4,2,8,4,3,1,0,26
+GP,M,U,GT3,T,other,other,yes,no,no,yes,yes,18,2,2,2,2,0,4,4,1,1,1,5,1,5
+GP,M,U,GT3,T,at_home_0,other,no,no,no,yes,no_0,17,3,3,2,1,0,3,3,3,2,3,4,8,18
+GP,F,U,GT3,T,other,other,no,no,no,yes,yes,18,4,4,2,1,0,2,3,3,1,1,1,0,6
+GP_1,F,U,GT3,T,at_home,at_home_at_home_school_1,yes,no,no,yes,no,17,3,2,1,1,0,2,3,3,2,2,3,0,20
+GP,M,"R, activities is yes",GT3,T,other,other,yes,no,no,yes,yes,16,4,2,1,1,0,2,4,4,1,2,5,1,10
+GP,F,U,GT3,T,other,other,yes,yes,no,yes,yes,17,2,2,1,2,0,4,4,2,1,1,4,0,12
+GP,F,U,LE3,T,services,services,no,yes,yes,yes,yes,16,2,3,1,1,0,4,3,2,4,2,5,0,11
+GP,F,U_index_level_0_0,GT3,T,other,other,yes,no,no,yes,yes,17,3,3,1,1,0,4,4,3,2,2,5,0,15
+GP_0,M,U,GT3,T,other,other,yes,no,no,yes,yes,19,1,1,1,2,0,4,5,3,1,1,4,0,1
+GP,F,U,LE3,T,other,services,no,no,no,yes,yes,15,3,4,2,1,0,4,1,2,3,1,4,0,17
+GP,F,U_index_level_0,L2,T,other,other,yes,no,no,yes,yes,18,2,2,3,3,0,2,4,2,2,2,4,4,13
+GP,F,U_index_level_0,GT3,T,other,other,yes,yes,yes,yes,yes,14,3,4,1,3,0,4,3,3,1,1,5,0,0
+GT3,F,U,LE3,"T, activities is yes",other,other,yes,yes,yes,yes,yes,18,3,2,2,4,0,4,3,5,2,2,5,0,15
+GP,F,R,GT3,T,other,other,yes,yes,no,yes,no,16,3,1,1,1,0,1,2,2,3,1,2,0,1
+GP,F,U,LE3,T,other,other,no,no,no,yes,yes,15,3,4,1,4,2,4,4,2,5,1,4,2,10
+GP,M_3,U,GT3,T,other,other,yes,no,yes,"yes, famsup is yes, failures is 0",yes,17,2,2,1,2,1,3,3,2,2,2,5,0,16
+GP,M,U,GT3,T,services_index_level_0,services_index_level_0,yes,yes,no,yes,yes,18,2,4,1,1,0,4,2,1,2,2,4,1,13
+GP,F,U,GT3,"T, traveltime is 1, activities is yes",services,services,yes,no,no,yes,yes,15,4,3,1,1,0,4,2,4,1,1,4,3,13
+GP,M,U_0,GT3,T,other,services,yes,yes,yes,yes,yes,15,2,2,1,1,0,4,1,3,1,2,4,2,16
+GP,F,U,GT3,T,services,services,no,yes,no,yes,yes,18,3,1,1,2,0,5,2,1,4,2,4,0,13
+GP,M,U_0,GT3,T,other,other,yes,yes,no,yes,yes,18,3,3,1,1,0,3,4,4,2,2,4,2,12
+GP,M,U,LE3,T,other_0,other_0,yes,no,yes,yes,yes,15,2,2,1,1,0,5,2,3,1,1,4,0,12
+GP,"F, Mjob is other",U,GT3,T,other,other,yes,yes,no,yes,yes,15,3,3,1,2,0,3,1,2,3,3,5,0,21
+GP,M,U,GT3,T,other,other,no,no,no,yes,yes,17,1,2,1,1,0,4,4,2,1,1,1,1,1
+GP,F,U,GT3,"T, famrel is 4",teacher_status_index_0,other,"no, studytime is 1",yes,yes,yes,yes,16,3,4,1,1,0,3,1,4,2,2,2,3,7
+GP,F,U,GT3,T,other,health,yes,yes,yes,yes,yes,17,2,1,1,1,0,4,5,3,1,2,4,1,13
+GP,F,U,GT3,T,health,other,no,no,yes,yes,yes,14,2,3,1,2,0,3,4,3,1,2,5,3,11
+GP,M,U,GT3,T,other,other,no,yes,no,yes,yes,18,2,2,2,2,0,2,4,2,1,2,4,6,8
+GP,M,R,GT3,T,other,other,no,no,yes,yes,yes,14,1,4,2,2,0,3,4,3,1,1,5,1,1
+GP,"M, activities is no",U_level_0,GT3,T,other,other,yes,yes,no_index_level_0,yes,yes,16,3,2,1,1,0,3,4,2,2,2,4,2,10
+GP,F,U,GT3,T,other,other,yes,yes,no,yes,yes,18,1,3,2,1,0,3,4,1,4,2,5,0,10
+GP,F,R,GT3,T,other,other,no,no,yes,yes,yes,16,1,4,2,1,0,4,2,2,2,1,3,0,10
+GP,F,U,GT3,T,other,other,yes,yes,yes,yes,yes,17,1,1,1,2,0,4,4,1,1,4,3,3,19
+GP,M,U,GT3,T,services,services,yes,yes,no,yes,yes,16,3,3,2,2,0,4,4,4,2,4,4,0,5
+GP,F,U,LE3,T,other,other,no,no,no,yes,yes,15,4,4,2,4,0,3,5,3,4,4,3,0,2
+GP,F,U,LE3,T,other,other,yes_index_level is 100,no,no,yes,yes,16,4,4,1,2,0,4,3,4,2,1,4,1,14
+GP,M,U,GT3,T,other,other,yes,yes,no,yes,yes,15,1,1,3,1,0,4,2,1,3,1,4,0,0
+GP,M,U,GT3,T,other,services,yes,no,no,yes,yes,18,3,3,3,2,0,4,4,4,1,4,5,0,4
+GP,F,U,GT3,T,other,other,yes,no,no,yes,yes,15,1,3,1,1,0,4,2,2,1,1,4,0,3
+GP,F,U,GT3,T,services,services,no,no,yes,yes,yes,16,3,3,2,2,0,5,3,3,3,2,1,0,10
+GP,F,U,GT3,T,other,other,yes,yes,yes,yes,yes,16,3,3,1,3,0,4,4,2,2,1,3,14,1
+GP,M,U,LE3,T,other,other,yes,no,no,yes,yes,17,2,2,1,1,0,4,3,2,1,1,3,0,4
+GP,F but Mjob is services,U,GT3,T,services,services,yes,no,no,yes,no,16,5,3,1,1,0,4,3,3,1,1,5,0,13
+"GP, activities is no",F,U,LE3,T,other,services,yes,no,no,yes,yes,17,1,1,1,3,0,4,4,2,2,2,3,0,15
+GP,M_1,U_0,GT3,T,at_home,at_home,no,yes,yes,yes,yes,17,4,3,1,1,0,4,4,5,1,1,5,4,13
+GP,M,U,GT3,T,services,services,yes,no,no,yes,yes,15,4,4,2,1,0,3,3,1,1,1,5,0,7
+GP,F,U_index_level_0,GT3,T,other_index_level_0_0,other,no_0,no,no,yes,yes,16,1,1,2,2,0,3,4,3,3,1,4,0,11
+GP,F,U,GT3,T,other,other,no,no,no,yes,yes,17,4,2,2,2,0,4,3,4,1,1,3,0,6
+GP,F,U,GT3,T_0,other,other,yes,no,no,yes,no,17,4,4,1,1,1,4,2,4,3,1,4,3,18
+"GP, internet is yes",M,U,GT3,T,other,other,no,no,no,yes,yes,16,3,2,2,2,0,4,4,2,1,1,4,3,9
+GP,M,U_1,GT3,T,other_level_0,other_level 1,yes,yes,no,yes,yes,17,4,4,2,2,0,4,4,2,1,1,2,0,13
+GP,F,U,GT3,T,other,services,yes,yes,no_index_level_0,yes,yes,18,4,4,2,1,0,4,2,4,2,2,4,0,9
+GP,M,U,LE3,T,other,other,yes,no,yes,yes,yes,16,4,2,1,2,0,3,3,1,1,3,5,0,9
+GP,M,U_status_0,GT3,T,other_index_level is A,other_index_level is 3,yes,yes,yes,yes,yes,16,3,2,2,1,0,4,3,2,4,1,5,0,4
+GP,M,U,GT3,T,services,services,no,yes,yes,yes,yes,16,1,1,1,1,0,4,4,1,2,1,4,0,12
+GP,F,U,GT3,T,other,services,no,yes,no,yes,yes,17,3,3,2,1,0,4,4,1,2,2,4,0,11
+GP,F,U,GT3,T,other,other,yes,no,"no, G3 is 6, failures is 1",yes,yes,18,4,5,1,1,0,5,3,4,2,4,5,0,3
+GP,F,U,LE3,T,services,other,yes,no,no,yes,yes,17,1,1,1,2,0,4,5,2,1,1,4,0,0
+GP,F,U,GT3,T,other,other,yes,yes,yes,yes,yes,18,1,1,1,4,0,4,5,1,1,1,4,2,19
+GP,F,U,GT3,T,at_home,other,no_0,yes,no,yes,no,18,1,3,1,1,0,3,1,3,1,1,5,2,10
+GP,F,U,GT3,T,other,other,yes,no,no,yes,yes,16,4,4,1,1,0,4,1,4,3,3,2,1,8
+"GP, failures is 0",M,U,GT3,T,other,other,no,no,yes,yes,yes,17,2,2,2,1,0,3,5,3,1,1,4,0,3
+GP,M,U,GT3,T,services,services,yes,yes,yes,yes,yes,16,4,4,2,1,0,4,3,1,2,3,4,0,10
+GP,M,U,GT3,T,other,other,no,no,no,yes,yes,16,2,2,1,1,0,4,4,1,1,5,4,0,10
+"GP, Fjob is other, work is no",F,U,LE3,T,services,services,no,yes,yes,yes,yes,18,4,4,2,2,0,4,4,2,3,4,5,0,0
+GP,F,U,LE3,T,services,other,yes,no,yes,yes,yes,17,3,4,1,1,0,4,1,3,4,3,4,0,16
+GP,M,U,LE3,T,other,"other, activities is still",yes,no,yes,yes,yes,16,4,3,2,1,0,4,3,3,2,3,2,1,9
+GP,F,U,GT3,T,services,services_level_0,no,yes,no,yes,yes,17,2,2,1,0,0,1,3,1,1,1,2,0,7
+GP,M,U,LE3,T,services,other,no,yes,no,yes,yes,16,2,4,2,1,0,3,3,2,3,2,5,4,17
+GP,M,U,GT3,T,other,other,yes,yes,yes,yes,yes,17,2,2,1,2,0,5,3,2,2,3,4,10,4
+GP_level,F,U,GT3,T,other,other,no,yes,no,yes,yes,17,3,1,3,1,0,3,4,3,3,1,4,3,13
+GP,F,U,GT3,T,at_home,at_home_school,yes,no,no,yes,yes,16,2,4,1,3,0,4,3,2,4,1,2,0,15
+GP,F,U,GT3,T,at_home_level_0,at_home_1,no,yes,no,yes,yes,18,4,3,2,4,0,2,3,3,1,1,4,16,7
+GP,M,U,GT3,T,other,other,yes,yes,yes,yes,yes,18,2,2,1,2,0,4,3,3,2,4,4,0,8
+GP,M_1,U,T,T,other,other,yes,yes,no,yes,yes,18,4,4,1,3,2,4,1,3,3,4,3,0,10
+GP,M,U,GT3,T,other,other,yes,yes,yes,yes,yes,16,3,2,5,5,0,3,5,2,2,1,4,0,12
+GP,M,U,GT3,T,other,other,no,no,no,yes,yes,18,3,3,2,2,0,5,1,1,1,3,2,0,17
+GP,F,U,GT3,T,services_level_0,other,no,no,no,yes,yes,16,1,4,3,3,0,3,4,2,2,1,4,0,10
+GP,M,U,GT3,T,at_home,at_home,no,no,no,yes,yes,16,2,2,1,1,0,4,4,2,2,1,4,0,11
+GP,M,U,LE3,T,other,other,yes,no,no,yes,yes,16,4,4,2,2,0,2,2,5,2,3,4,0,11
+GP,M,U,GT3,T,other,other,"yes, Fjob is services",no,no,yes,yes,15,1,2,1,2,0,2,4,4,1,1,4,0,14
+GP,"M, activities is no",R,GT3,T,other,other,yes,yes,yes,yes,yes,17,3,4,2,2,0,4,5,1,1,2,3,0,11
+GP_0,F,U,GT3,T,other,other,yes,yes,yes,yes,no,16,2,3,2,3,0,2,4,4,1,2,3,0,10
+GP,M,U,GT3,T,other,other,yes,yes,yes,yes,yes,16,4,4,1,1,0,3,5,3,3,1,4,0,11
+GP,F,U,GT3,T,other,other,no,no,no,yes,yes,18,4,3,2,1,0,3,1,3,3,1,2,0,10
+GP,M,U,GT3,T,services,other,yes,yes,yes,yes,yes,18,4,4,1,1,0,4,2,3,1,4,7,0,12
+GP_0,M,U,GT3,T,other,other,yes,yes,no,yes,yes,15,4,4,1,4,0,4,4,3,1,2,4,0,10
+GP,F,U,LE3,T,other,other,yes,yes,no_index_level_0,yes,no,15,2,2,2,3,0,3,4,3,1,2,4,3,13
+GP,M,U,GT4,T,other,services,yes,no,yes,yes,no,18,4,3,2,2,0,3,4,3,1,2,3,4,12
