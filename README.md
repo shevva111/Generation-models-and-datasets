@@ -1,4 +1,4 @@
-Code for generation of sythetic tabular datasets and csv files representing each models output
+Code for generation of sythetic tabular datasets and csv files representing each models output used for my master thesis titled, "Privacy Evaluation of TabularSynthetic Data Generation usingLarge Language Models".
 
 ## Repository Structure
 
